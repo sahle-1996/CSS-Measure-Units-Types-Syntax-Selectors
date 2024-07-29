@@ -1,0 +1,19 @@
+html{
+  background-color: white;
+}
+body{
+  background-color: rgb(75, 200, 223);
+  height: fit-content;
+  padding: 2%;
+}
+
+/* Alternative way  */
+/* body{
+  background-color: aqua;
+  height: 15vh;
+  padding-left: 10px;
+  padding-right: 10px;
+  This one will not be able to make the paragraph input within the the white bar
+
+} */
+
